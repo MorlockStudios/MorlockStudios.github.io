@@ -1,4 +1,6 @@
 
-header {
-  align-items: center;
+#headerimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
